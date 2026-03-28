@@ -1,0 +1,12 @@
+Different values of functions of different things.
+
+But some values may be more affected by the changes in some variables than others.
+
+For example,
+
+The CCT maybe a function of the total call volume. If there are a lot of incoming calls
+calls maybe compressed more. 
+
+However, it maybe also a function of the weekday. However, the contribution maybe minimal.
+
+When filling in nan values, we need to average across the input which affects the variable the most.
